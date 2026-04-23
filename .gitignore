@@ -1,0 +1,36 @@
+/.graphql-generated/
+/public/_graphql/
+/node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+### Silverstripe ###
+assets/_combinedfiles/
+assets/_resampled/
+assets/Uploads/
+silverstripe-cache/
+.env
+vendor/
+resources/
+themes/simple/
+public/resources/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide

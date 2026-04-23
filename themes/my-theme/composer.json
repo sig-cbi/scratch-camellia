@@ -1,0 +1,9 @@
+{
+    "type": "my-theme",
+    "license": "BSD-3-Clause",
+    "extra": {
+        "expose": [
+            "javascript"
+        ]
+    }
+}
