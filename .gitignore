@@ -6,9 +6,7 @@
 Thumbs.db
 
 ### Silverstripe ###
-assets/_combinedfiles/
-assets/_resampled/
-assets/Uploads/
+assets/
 silverstripe-cache/
 .env
 vendor/
